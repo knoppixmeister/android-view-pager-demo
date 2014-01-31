@@ -3,8 +3,8 @@ package com.example.viewpagerproba;
 import android.os.*;
 import android.support.v4.app.*;
 import android.support.v4.view.*;
-import android.support.v7.app.ActionBarActivity;
-import android.util.Log;
+import android.support.v7.app.*;
+import android.util.*;
 import android.view.*;
 
 public class MainActivity extends ActionBarActivity {
